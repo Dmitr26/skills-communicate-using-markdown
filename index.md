@@ -2,7 +2,7 @@
 ### World
 
 Pigs:
-- [x] Dasha
-- [ ] Sasha
-- [ ] Natasha
+- [x] Nif-Nif
+- [ ] Nuf-Nuf
+- [ ] Naf-Naf
 
